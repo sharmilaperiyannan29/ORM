@@ -41,7 +41,7 @@ admin.site.register(car,carAdmin)
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2025-09-19 213355.png>)
+<img width="1906" height="1072" alt="Screenshot 2025-09-19 213355" src="https://github.com/user-attachments/assets/c2c2fabb-eb41-4aee-aae0-55e937285469" />
 
 
 ## RESULT
